@@ -2,7 +2,7 @@
 ShellWallpapers allows you to download free tapes for PSVITA via Jailbreak for VitaShell
 # Download 
 ```
-Download any wallpaper
+Download any wallpaper (In Releases)
 Open VitaShell
 Connect VitaShell with USB or FTP 
 In Computer or copy folders on PSVITA
